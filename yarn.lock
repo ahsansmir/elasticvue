@@ -1964,10 +1964,10 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.1.tgz#027422e2faec0b25e1549c3e1bd8309b9133b6e5"
   integrity sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==
 
-quasar@^2.14.4:
-  version "2.14.4"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.14.4.tgz#e6f454c3f39c295a4be76878de513cbaa14d315d"
-  integrity sha512-l+bSGVMcesVydX1IeWyAAjqCRfigwaonIDqxodvNjZwkifZF29YdCMh9bief2l9k9r23kMl7P5Oqs6EA5ja4ag==
+quasar@^2.14.5:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.15.1.tgz#558bdaf7352e292b8adf89d4bd0e85a07a226a2a"
+  integrity sha512-YONHT5i+znZ/4msKZXdODv+DAUnLhe6/c3d+q9vuUkwLbSdGkroc2GeDCI52YVmmw8hrF+Fiik/ZSr1wynxHIA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
